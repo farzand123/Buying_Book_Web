@@ -1,0 +1,12 @@
+const express = require("express");
+const app = express();
+const adminRoutes = require("./routes/admin.routes");
+const userRoutes = require("./routes/user.routes");
+const bookRoutes = require("./routes/book.routes");
+const cors = require("cors");
+app.use(express.json());
+app.use(cors());
+app.use(adminRoutes);
+app.use(userRoutes);
+app.use(bookRoutes);
+module.exports = app;
