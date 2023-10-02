@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "64c0a583a9d7e70f3046933f",
+    "title": "fifty shades",
+    "author": "Abc",
+    "publicationYear": 1999,
+    "price": 100,
+    "genres": [""],
+    "IBAN": 1100,
+    "available": 10,
+    "createdAt": "2023-07-26T04:45:08.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b64704f32c999fb7386b",
+    "title": "Hello",
+    "author": "sdf",
+    "publicationYear": 2000,
+    "price": 200,
+    "genres": [""],
+    "IBAN": 7788,
+    "available": 10,
+    "createdAt": "2023-07-26T05:02:25.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b67704f32c999fb7386e",
+    "title": "World",
+    "author": "Python",
+    "publicationYear": 1990,
+    "price": 150,
+    "genres": [""],
+    "IBAN": 3344,
+    "available": 10,
+    "createdAt": "2023-07-26T05:02:25.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b7062ceddfd6f4496806",
+    "title": "new one",
+    "author": "Abc",
+    "publicationYear": 1999,
+    "price": 200,
+    "genres": [""],
+    "IBAN": 16100,
+    "available": 10,
+    "createdAt": "2023-07-26T04:45:08.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b7152ceddfd6f4496807",
+    "title": "fifty ",
+    "author": "Abc",
+    "publicationYear": 1999,
+    "price": 500,
+    "genres": [""],
+    "IBAN": 5100,
+    "available": 10,
+    "createdAt": "2023-07-26T04:45:08.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b7352ceddfd6f4496808",
+    "title": "shades",
+    "author": "xyz",
+    "publicationYear": 1999,
+    "price": 200,
+    "genres": [""],
+    "IBAN": 199100,
+    "available": 10,
+    "createdAt": "2023-07-26T04:45:08.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "64c0b75b2ceddfd6f4496809",
+    "title": "Live happy",
+    "author": "Rahul",
+    "publicationYear": 1999,
+    "price": 10000,
+    "genres": [""],
+    "IBAN": 189100,
+    "available": 10,
+    "createdAt": "2023-07-26T04:45:08.841Z",
+    "__v": 0
+  }
+]
